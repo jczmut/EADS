@@ -1,2 +1,2 @@
 # EADS
-EADS code, for tests etc.
+Algorithms and Data Structures projects
