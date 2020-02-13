@@ -1,2 +1,2 @@
 # EADS
-Algorithms and Data Structures projects from 3rd semester
+This repository contains C++ projects from 3rd semester subject Algorithms and Data Structures.
